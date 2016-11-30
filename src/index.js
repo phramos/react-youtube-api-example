@@ -6,7 +6,7 @@ const API_KEY = 'AIzaSyDNsnkrTTAHNMTqy596EEpul8fdgSsYbgU';
 
 //create a new component
 const App = () => {
-    return ( 
+    return (
         <div>
             <SearchBar/>
         </div>
